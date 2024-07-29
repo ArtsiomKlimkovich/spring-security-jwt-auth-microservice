@@ -39,7 +39,8 @@
   <strong>Request Body:</strong>
   <pre>
   {
-    "username": "string",
+    "firstName": "string",
+    "lastName:"string",
     "email": "string",
     "password": "string"
   }
@@ -47,8 +48,8 @@
   <strong>Response:</strong>
   <pre>
   {
-    "username": "string",
-    "email": "string"
+    "email": "string",
+    "password": "string"
   }
   </pre>
 </p>
